@@ -48,9 +48,8 @@ The project uses simulated traffic data with the following structure:
 - Python 3.x
 - Qiskit
 - NumPy
+- Networkx
 
 ## Contributions
 Feel free to submit issues and pull requests to improve the project.
 
-## License
-This project is licensed under the MIT License.
