@@ -13,7 +13,15 @@ This project implements a Quantum Traffic Signal Management System using Variati
     ```bash
     git clone https://github.com/your-repo/quantum-traffic-system.git
     ```
-2. Install the required dependencies:
+2. create a virtual environment to install the dependancies
+   ```back
+   virtualenv prep_a_thon
+   ```
+    Activate the virtualenv
+   ```bash
+   source prep_a_thon/bin/activate
+   ```
+4. Install the required dependencies:
     ```bash
     pip install -r requirements.txt
     ```
