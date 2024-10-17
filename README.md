@@ -44,7 +44,7 @@ traffic_system = QuantumGPSManagementSystem(road_network, traffic_data, source='
 # Simulate and get optimized traffic routes
 traffic_system.run_simulation()
 ```
-3. Tutorial for this implementation is simulated in the [Quantum-traffic-management.ipynb](https://github.com/Subhasree4921/PREP_A_THON_24/blob/master/Quantum-traffic-management.ipynb) file.
+3. Tutorial for this implementation is simulated in [Quantum-traffic-management.ipynb](https://github.com/Subhasree4921/PREP_A_THON_24/blob/master/Quantum-traffic-management.ipynb) .
 
 ## Data
 The project uses simulated traffic data with the following structure:
